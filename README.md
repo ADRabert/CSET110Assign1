@@ -1,9 +1,9 @@
-## CSET 110 Assignment 1: Mustacchio Template
+# CSET 110 Assignment 1: Mustacchio Template
 
-# Description
+## Description
 This assignment involves recreating a template website from scratch using only the topics learned in previous lectures. No outside help is allowed; all code must be handwritten to be as close as possible to the original source material.
 
-# Features
+## Features
 - Home page with banner image & 3 flexbox images
 - About page with title, image & centered paragraphs
 - Gallery page with various bordered pictures
