@@ -10,7 +10,7 @@ div.people {
     font-size: 32px;
     font-weight: bold;
 } div.intro {
-    background-image: url("img/the-beacon.jpg");
+    background-image: url("../img/the-beacon.jpg");
     height: 540px;
     margin: 0 auto;
     width: 1080px;
