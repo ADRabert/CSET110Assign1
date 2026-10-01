@@ -9,3 +9,5 @@ This assignment involves recreating a template website from scratch using only t
 - Gallery page with various bordered pictures
 - Blog page with 3 cards, each containing an image, text & button
 - Contact page with several boxes that the user can type in, & a button to send information
+
+Thaddeus Stevens College of Technology, 2026.
