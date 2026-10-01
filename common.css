@@ -16,6 +16,8 @@
 } a {
     color: unset;
     text-decoration: unset;
+} div.buttons a, div.buttons p {
+    min-width: 80px;
 } div.buttons a:hover {
     color: mediumseagreen;
 } div.buttons p:hover {
