@@ -1,0 +1,7 @@
+div.main img {
+    border: #111 solid 4px;
+    margin-bottom: 48px;
+} p.text {
+    margin: 0 auto 48px auto;
+    width: 50%;
+}
